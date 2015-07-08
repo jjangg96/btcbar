@@ -12,6 +12,7 @@
 #import "WinkDexUSDFetcher.h"
 #import "OKCoinCNYFetcher.h"
 #import "HuobiCNYFetcher.h"
+#import "CCexCrevaBTCFetcher.h"
 
 @interface AppDelegate : NSObject <NSApplicationDelegate> {
     NSMenu *btcbarMainMenu;

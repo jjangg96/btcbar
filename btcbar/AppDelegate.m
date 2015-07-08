@@ -34,6 +34,7 @@
                [[WinkDexUSDFetcher alloc] init],
                [[OKCoinCYNFetcher alloc] init],
                [[HuobiCNYFetcher alloc] init],
+               [[CCexCrevaBTCFetcher alloc] init],
                nil];
 
     // If ticker preference does not exist, default to 0
